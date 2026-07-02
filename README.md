@@ -1,4 +1,4 @@
-##Herbert Molina - Portfólio de Segurança da Informação
+## Herbert Molina - Portfólio de Segurança da Informação
 
 Olá, 
 Sou graduado em Tecnologia em Cibersegurança (2025) e estudo Segurança da Informação há aproximadamente 10 anos, com interesse pela área desde muito antes disso.
@@ -18,11 +18,11 @@ Me interesso especialmente por:
 
 Meu objetivo é evoluir continuamente como profissional de Segurança da Informação, desenvolvendo projetos técnicos, documentando pesquisas e construindo um portfólio baseado em evidências práticas.
 
-##Habilidades
+## Habilidades
 - OSINT e Reconhecimento Passivo
 - Análise de Vulnerabilidades
 
-##Um pouco do arsenal...
+## Um pouco do arsenal...
 - Burp Suite
 - Nmap
 - ffuf
@@ -41,11 +41,11 @@ Meu objetivo é evoluir continuamente como profissional de Segurança da Informa
 - Linux
 - Git
 
-##Formação
+## Formação
 
 - Tecnólogo em Cibersegurança (2025)
 
-##Estudos Contínuos
+## Estudos Contínuos
 
 - TryHackMe
 - Laboratórios próprios
@@ -53,7 +53,7 @@ Meu objetivo é evoluir continuamente como profissional de Segurança da Informa
 - Pesquisa em OSINT
 - Simulações de SOC
 
-##Atualmente estudando
+## Atualmente estudando
 
 - OWASP Top 10
 - API Security
@@ -64,19 +64,19 @@ Meu objetivo é evoluir continuamente como profissional de Segurança da Informa
 - SOC N1
 - Threat Hunting
 
-##Projetos
+## Projetos
 
-##Mapeamento de Superfície de Ataque via OSINT
+## Mapeamento de Superfície de Ataque via OSINT
 
-#Tipo: Reconhecimento Passivo
-#Objetivo: Identificação de ativos expostos e tecnologias públicas
-#Técnicas:
+# Tipo: Reconhecimento Passivo
+# Objetivo: Identificação de ativos expostos e tecnologias públicas
+# Técnicas:
   - Enumeração de subdomínios
   - Certificados TLS
   - DNS Intelligence
   - Fingerprinting Tecnológico
   - Descoberta de serviços, emails...
-#Ferramentas:
+# Ferramentas:
   - Amass
   - Subfinder
   - crt.sh
@@ -87,41 +87,41 @@ Meu objetivo é evoluir continuamente como profissional de Segurança da Informa
   - httpx
   - BurpSuit
   
-#Entregáveis:
+# Entregáveis:
   - Inventário de ativos
   - Tecnologias identificadas
   - Riscos observados
   - Recomendações
 
-##Pentest Web
+## Pentest Web
 
-#Escopo: Aplicação Web
-#Metodologia:
+# Escopo: Aplicação Web
+# Metodologia:
   - Reconhecimento
   - Enumeração
   - Mapeamento
   - Descoberta de Vulnerabilidades
   - Validação
   - Relatório Técnico
-#Base:
+# Base:
   - OWASP Top 10
 
-##Investigação Digital
+## Investigação Digital
 
-#Tipo: Investigação baseada em OSINT
-#Fontes:
+# Tipo: Investigação baseada em OSINT
+# Fontes:
   - DNS
   - WHOIS
   - Certificate Transparency
   - Motores de busca
   - Repositórios públicos
   - GitHub
-#Objetivo:
+# Objetivo:
   - Mapear infraestrutura
   - Identificar exposição de informações
   - Apoiar atividades de Pentest
 
-##Avaliação de Vulnerabilidades
+## Avaliação de Vulnerabilidades
 
 - Descoberta
 - Classificação
@@ -130,7 +130,7 @@ Meu objetivo é evoluir continuamente como profissional de Segurança da Informa
 - Evidências
 - Recomendações
 
-##Laboratório SOC
+## Laboratório SOC
 
 - Monitoramento
 - Investigação
@@ -140,6 +140,6 @@ Meu objetivo é evoluir continuamente como profissional de Segurança da Informa
 - Documentação
 
 
-##Contato
+## Contato
 - LinkedIn: https://www.linkedin.com/in/herbert-molina
 - Email: herbertluizmolinaperfil@gmail.com
