@@ -1,4 +1,4 @@
-## Herbert Molina - Portfólio de Segurança da Informação
+### Herbert Molina - Portfólio de Segurança da Informação
 
 Olá, 
 Sou graduado em Tecnologia em Cibersegurança (2025) e estudo Segurança da Informação há aproximadamente 10 anos, com interesse pela área desde muito antes disso.
@@ -68,15 +68,15 @@ Meu objetivo é evoluir continuamente como profissional de Segurança da Informa
 
 ## Mapeamento de Superfície de Ataque via OSINT
 
-# Tipo: Reconhecimento Passivo
-# Objetivo: Identificação de ativos expostos e tecnologias públicas
-# Técnicas:
+##Tipo: Reconhecimento Passivo
+## Objetivo: Identificação de ativos expostos e tecnologias públicas
+## Técnicas:
   - Enumeração de subdomínios
   - Certificados TLS
   - DNS Intelligence
   - Fingerprinting Tecnológico
   - Descoberta de serviços, emails...
-# Ferramentas:
+## Ferramentas:
   - Amass
   - Subfinder
   - crt.sh
@@ -87,7 +87,7 @@ Meu objetivo é evoluir continuamente como profissional de Segurança da Informa
   - httpx
   - BurpSuit
   
-# Entregáveis:
+## Entregáveis:
   - Inventário de ativos
   - Tecnologias identificadas
   - Riscos observados
@@ -95,28 +95,28 @@ Meu objetivo é evoluir continuamente como profissional de Segurança da Informa
 
 ## Pentest Web
 
-# Escopo: Aplicação Web
-# Metodologia:
+## Escopo: Aplicação Web
+## Metodologia:
   - Reconhecimento
   - Enumeração
   - Mapeamento
   - Descoberta de Vulnerabilidades
   - Validação
   - Relatório Técnico
-# Base:
+## Base:
   - OWASP Top 10
 
 ## Investigação Digital
 
-# Tipo: Investigação baseada em OSINT
-# Fontes:
+## Tipo: Investigação baseada em OSINT
+## Fontes:
   - DNS
   - WHOIS
   - Certificate Transparency
   - Motores de busca
   - Repositórios públicos
   - GitHub
-# Objetivo:
+## Objetivo:
   - Mapear infraestrutura
   - Identificar exposição de informações
   - Apoiar atividades de Pentest
