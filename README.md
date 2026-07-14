@@ -23,58 +23,41 @@ Realizo laboratórios práticos, simulo cenários reais e faço trabalhos reais 
 
 ### ⚙️ Tecnologias, Ferramentas & Linguagens
 ### Tecnologias  
-Linux (Ubuntu, Kali Linux, Linux Mint)
-Windows
-Redes TCP/IP
-WordPress
-Git/GitHub
-Virtualização (VMware Workstation, VirtualBox)
-### Ferramentas
-Burp Suite
-Nmap
-ffuf
-Nuclei
-Amass
-Subfinder
-httpx
-theHarvester
-Shodan
-Censys
-crt.sh
-Wappalyzer
-Wireshark
-Wazuh
-### Linguagens
-Python
-Bash
-SQL
+Linux (Ubuntu, Kali Linux, Linux Mint)  
+Windows  
+Redes TCP/IP  
+WordPress  
+Git/GitHub  
+Virtualização (VMware Workstation, VirtualBox)  
+### Ferramentas  
+Burp Suite  
+Nmap  
+ffuf  
+Nuclei  
+Amass  
+Subfinder  
+httpx  
+theHarvester  
+Shodan  
+Censys  
+crt.sh  
+Wappalyzer  
+Wireshark  
+Wazuh  
+### Linguagens  
+Python  
+Bash  
+SQL  
 
 ---
 
 ## 🧪 Laboratórios e Projetos Práticos
 > Veja na minha aba de projetos ou nos repositórios abaixo os cenários reais que venho desenvolvendo:
-
-### 📊 [Monitoramento de Segurança com Wazuh](https://github.com/HerbertMolina/portfolio)
-* **Descrição:** Implementação de um ambiente de laboratório integrado com Wazuh para centralização e análise de logs.
-* **O que fiz:** Deploy do servidor Wazuh, configuração de agentes em endpoints Windows/Linux e simulação de ameaças para validação de alertas.
-* **Tecnologias:** Wazuh, Kali Linux, VMware, Windows Server.
-
-### 🕵️‍♂️ [Laboratório de Análise Forense e Perícia Digital](https://github.com/HerbertMolina/portfolio)
-* **Descrição:** Simulação de cenários de resposta a incidentes e análise post-mortem de invasões.
-* **O que fiz:** Preservação de evidências digitais, análise de sistemas de arquivos Linux/Windows e geração de relatórios técnicos.
-* **Tecnologias:** Ferramentas Forenses, Terminal Linux.
-
----
-
-## 📚 Educação & Certificações
-* **Graduação em Cibersegurança** – Anhanguera Educacional[cite: 1, 2]
-* **Curso de Administração de Sistemas Linux** – *Segurança básica e administração de servidores[cite: 1].*
-* **Fundamentos de Perícia Digital** – *Práticas de análise forense e tratamento de evidências[cite: 1].*
-* **Técnicas de Pentest** – *Identificação e exploração de vulnerabilidades[cite: 1].*
+[Projetos](https://github.com/HerbertMolina/Projetos)
 
 ---
 
 ## 🤝 Conecte-se comigo
-* **LinkedIn:** [linkedin.com/in/herbert-molina](https://www.linkedin.com/in/herbert-molina)[cite: 2]
-* **E-mail:** [herbertluizmolinaperfil@gmail.com](mailto:herbertluizmolinaperfil@gmail.com)[cite: 2]
-* **Portfólio de Projetos:** [Projetos do GitHub](https://github.com/HerbertMolina?tab=projects)
+* **LinkedIn:** [linkedin.com/in/herbert-molina](https://www.linkedin.com/in/herbert-molina)
+* **E-mail:** [herbertluizmolinaperfil@gmail.com](mailto:herbertluizmolinaperfil@gmail.com)
+* **Instagram:** [Insta](https://www.instagram.com/herbertluizmolina/)
