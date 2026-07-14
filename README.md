@@ -1,6 +1,5 @@
-# Olá, eu sou o Herbert Luiz Molina! 👋
+# Olá, eu sou o Herbert Molina! 👋
 
-## 🚀 Sobre Mim
 Profissional de tecnologia com mais de 10 anos de experiência prática em suporte, manutenção de hardware/software e sistemas operacionais.   
 Atualmente, sou graduado em **Cibersegurança** e dedico minha carreira à área de segurança da informação, com foco em segurança defensiva (Blue Team), monitoramento de ameaças e perícia digital.   
 Realizo laboratórios práticos, simulo cenários reais e faço trabalhos reais de ataques e defesa e investigação para entender o comportamento de ameaças e aprimorar metodologias.  
