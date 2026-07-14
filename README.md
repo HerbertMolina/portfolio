@@ -4,7 +4,7 @@ Profissional de tecnologia com mais de 10 anos de experiência prática em supor
 Atualmente, sou graduado em **Cibersegurança** e dedico minha carreira à área de segurança da informação, com foco em segurança defensiva (Blue Team), monitoramento de ameaças e perícia digital.   
 Realizo laboratórios práticos, simulo cenários reais e faço trabalhos reais de ataques e defesa e investigação para entender o comportamento de ameaças e aprimorar metodologias.  
 
-* 🎯 **Foco de Atuação:** Investigação em Cibersegurança, OSINT, Gestão de Superficie de Ataque(ASM), Inteligência de Ameaças Cyber Threat Intelligence(CTI), Monitoramento SIEM (Wazuh), Análise de Vulnerabilidades, Forense Digital e Hardening.
+* 🎯 **Foco de Atuação:** Investigação em Cibersegurança, OSINT, Gestão de Superficie de Ataque(ASM), Cyber Threat Intelligence(CTI), Monitoramento SIEM (Wazuh), Análise de Vulnerabilidades, Forense Digital e Hardening.
 
 ---
 
