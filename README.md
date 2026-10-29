@@ -1,3 +1,5 @@
+<img width="1230" height="1278" alt="Guardião Cibernético Herbert" src="https://github.com/user-attachments/assets/2e20fd67-cc77-429c-b6ee-7383d0d06b65" />
+
 # Olá, eu sou o Herbert Molina! 👋
 
 Profissional de tecnologia com mais de 10 anos de experiência prática em suporte, manutenção de hardware/software e sistemas operacionais.   
